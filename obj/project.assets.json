@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ari\\documents\\cursos\\fundamentos-de-cs-con-net-core\\primer-programa\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\ari\\documents\\cursos\\fundamentos-de-cs-con-net-core\\primer-programa\\helloworld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\ari\\documents\\cursos\\fundamentos-de-cs-con-net-core\\primer-programa\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "C:\\Users\\ari\\documents\\cursos\\fundamentos-de-cs-con-net-core\\primer-programa\\helloworld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\ari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ari\\documents\\cursos\\fundamentos-de-cs-con-net-core\\primer-programa\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\ari\\documents\\cursos\\fundamentos-de-cs-con-net-core\\primer-programa\\helloworld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
